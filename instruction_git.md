@@ -58,3 +58,7 @@
     
     git merge 
 
+Для перемещения между ветками используют команду:
+
+    git checkout "name branch"
+    
