@@ -64,3 +64,5 @@
     git checkout <name_branch>
     
 Для удаления ветки вводится команда:
+
+    git branch -d <branch_name>    
