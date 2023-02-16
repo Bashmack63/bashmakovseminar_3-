@@ -54,3 +54,7 @@
 
     git branch "name branch"
 
+Для слияния веток вводится команда 
+    
+    git merge 
+
